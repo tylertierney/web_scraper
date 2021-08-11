@@ -1,8 +1,9 @@
 {
+  "homepage": "https://tylertierney.github.io/web_scraper/",
   "name": "web_scraper",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tylertierney.github.io/web_scraper/",
+  
   "dependencies": {
     "@chakra-ui/react": "^1.6.6",
     "@emotion/react": "^11.4.1",
