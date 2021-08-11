@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+# CNN Web Scraper
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project uses CNN Lite to aggregate daily news headlines. Users are provided with filtering and social media sharing options.
 
-## Available Scripts
+## Tools used to create this project
 
-In the project directory, you can run:
+React, Node JS, Chakra UI.
